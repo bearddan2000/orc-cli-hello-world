@@ -1,0 +1,2 @@
+Println("Hello, world!") >>
+stop
